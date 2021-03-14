@@ -25,6 +25,7 @@ ECNU 计软院合合拆拆，各种群层出不穷，但时间一长便可能失
 | [Kuroko](https://github.com/SuperKuroko)           | 电一第一吸血鬼,ID:爱追IU的派大星        | http://kuroko.info/ |
 | [小B仔](https://github.com/luxuantao) | Fdu弟中弟 | https://luxuantao.github.io/web/index.html |
 | [ballballtang](https://github.com/ballballtang)    | 微软咸鱼，可当内推工具人       | ttangwei331998@163.com |
+| [刘冬煜](https://github.com/Viola-Siemens)        | 算法岗、开发岗、游戏岗即插即用，没能耐但学得快 | https://www.zhihu.com/people/bei-ji-e-13 |
 
 
 ## 提交、说明与其他
