@@ -24,6 +24,7 @@ ECNU 计软院合合拆拆，各种群层出不穷，但时间一长便可能失
 | [jxtxzzw](https://github.com/jxtxzzw)              | 用志不分，乃凝于神。        | [凝神长老和他的朋友们](https://www.jxtxzzw.com) |
 | [Kuroko](https://github.com/SuperKuroko)           | 电一第一吸血鬼,ID:爱追IU的派大星        | http://kuroko.info/ |
 | [小B仔](https://github.com/luxuantao) | Fdu弟中弟 | https://luxuantao.github.io/web/index.html |
+| [ballballtang](https://github.com/ballballtang)    | 微软咸鱼，可当内推工具人       | ttangwei331998@163.com |
 
 
 ## 提交、说明与其他
