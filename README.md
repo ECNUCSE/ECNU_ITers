@@ -29,6 +29,7 @@ ECNU 计软院合合拆拆，各种群层出不穷，但时间一长便可能失
 | [kblack](https://github.com/kblackcn)             | 图森未来内推 | https://blog.i64d.com/ |
 | [hcy226](https://github.com/hcy226)                |ecnu软件数据方向本+pku叉院数据科学硕+前acmer现cv/mler+欢迎hr小哥哥小姐姐来撩| https://www.zhihu.com/people/hcy-20-34 |
 | [haven](https://github.com/HavenTong) |准Fdu摸鱼选手| https://haventong.github.io/ |
+| [yoshino-s](https://github.com/yoshino-s/) |CTFer 专职NodeJS| 咕咕咕 |
 
 ## 提交、说明与其他
 
