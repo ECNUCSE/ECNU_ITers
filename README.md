@@ -11,7 +11,7 @@ ECNU 计软院合合拆拆，各种群层出不穷，但时间一长便可能失
 通过提交`Issue` or `Pull request` 添加你的信息至下方列表(详见[提交与说明](#提交说明与其他));
 
 <!-- 位置留的很宽啊，格式还是整齐一点好嗷 -->
-
+w
 ## 信息汇总
 
 | 怎么称呼                                            |           来句介绍                     |           甩个链接                       |
@@ -19,6 +19,7 @@ ECNU 计软院合合拆拆，各种群层出不穷，但时间一长便可能失
 | [LEO D PEN](https://github.com/LEODPEN)            | 德玛西亚没有眼泪（LOL影流守门员）          | https://mpy634.cn/                     |
 | [0yuyuko0](https://github.com/0yuyuko0)            | Java技术爱好者          | 346847538@qq.com                     |
 | [An Yi](https://github.com/jyannis)                | 蚂蚁金服Java研发          |                      |
+| [番茄瓜皮](https://github.com/fun4wut)              | 抖音电商前端，招人！                      | https://www.gofun4.top                |
 
 
 
