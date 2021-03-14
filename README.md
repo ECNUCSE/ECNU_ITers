@@ -22,7 +22,7 @@ ECNU 计软院合合拆拆，各种群层出不穷，但时间一长便可能失
 | [An Yi](https://github.com/jyannis)                | 蚂蚁金服Java研发          |                      |
 | [番茄瓜皮](https://github.com/fun4wut)              | 抖音电商前端，招人！                      | https://www.gofun4.top                |
 | [jxtxzzw](https://github.com/jxtxzzw)              | 用志不分，乃凝于神。        | [凝神长老和他的朋友们](https://www.jxtxzzw.com) |
-
+| [Kuroko](https://github.com/SuperKuroko)           | 电一第一吸血鬼,ID:爱追IU的派大星        | http://kuroko.info/ |
 
 
 ## 提交、说明与其他
