@@ -27,6 +27,7 @@ ECNU 计软院合合拆拆，各种群层出不穷，但时间一长便可能失
 | [ballballtang](https://github.com/ballballtang)    | 微软咸鱼，可当内推工具人       | ttangwei331998@163.com |
 | [刘冬煜](https://github.com/Viola-Siemens)        | 算法岗、开发岗、游戏岗即插即用，没能耐但学得快 | https://www.zhihu.com/people/bei-ji-e-13 |
 | [kblack](https://github.com/kblackcn)             | 图森未来内推 | https://blog.i64d.com/ |
+| [hcy226](https://github.com/hcy226)                |ecnu软件数据方向本+pku叉院数据科学硕+前acmer现cv/mler+欢迎hr小哥哥小姐姐来撩| https://www.zhihu.com/people/hcy-20-34 |   
 
 
 ## 提交、说明与其他
