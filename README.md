@@ -32,6 +32,7 @@ ECNU 计软院合合拆拆，各种群层出不穷，但时间一长便可能失
 | [yoshino-s](https://github.com/yoshino-s/) |CTFer 专职NodeJS| 咕咕咕 |
 | [jacklightChen](https://github.com/jacklightChen/) | 区块链研发 | https://zhihaochen.cn/ |
 | [Charles Liu](https://github.com/komorebi8)        | SAP摸鱼中 长期内推965 | https://www.zhihu.com/people/liu-chang-23-55 |
+| [UncooleBen](https://github.com/UncooleBen) | 准CMU学生，长老八年老粉 | pengjuntao2016 AT foxmail DOT com |
 
 ## 提交、说明与其他
 
