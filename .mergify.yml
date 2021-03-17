@@ -6,5 +6,7 @@ pull_request_rules:
       - "-conflict"
       - "-merged"
     actions:
+      request_reviews:
+        teams: ['admin']
       merge:
         method: merge
