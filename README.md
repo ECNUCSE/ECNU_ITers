@@ -35,6 +35,8 @@ ECNU 计软院合合拆拆，各种群层出不穷，但时间一长便可能失
 | [UncooleBen](https://github.com/UncooleBen) | 准CMU学生，长老八年老粉 | pengjuntao2016 AT foxmail DOT com |
 | [柴柴](https://github.com/mizunashi-sh) | 华东师范大学计算机科学技术2018级本科/咸鱼 | ohayou8080@163.com https://mizunashi.me |
 | [wjp666666](https://github.com/wjp666666) | 华东师范大学软件工程2019级本科/混子精通 | 1969554248@qq.com |
+| [Jonsonlee](https://github.com/johnsonlee-debug) | 19级老混子，FP,PL,Racket学习中 | 0xjohnsonlee@gmail.com|
+
 ## 提交、说明与其他
 
 ### 提交
