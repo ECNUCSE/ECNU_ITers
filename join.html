@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <title>Join ECNU_ITers</title>
+    <link rel="stylesheet" type="text/css" href="https://unpkg.com/view-design/dist/styles/iview.css">
+    <script type="text/javascript" src="https://vuejs.org/js/vue.min.js"></script>
+    <script type="text/javascript" src="https://unpkg.com/view-design/dist/iview.min.js"></script>
+    <script src="https://cdn.bootcdn.net/ajax/libs/jquery/3.5.1/jquery.js"></script>
+</head>
+<body>
+<div id="app">
+    <Row>
+        <i-col span="12" offset="6">
+            <Card shadow>
+                <i-form ref="formValidate" :model="formValidate" :rules="ruleValidate" :label-width="80">
+                    <Form-Item label="出生门派" prop="dept">
+                        <Radio-Group v-model="formValidate.dept">
+                            <Radio border label="CS">CS</Radio>
+                            <Radio border label="SEI">SEI</Radio>
+                            <Radio border label="DASE">DASE</Radio>
+                        </Radio-Group>
+                    </Form-Item>
+                    <Form-Item label="入学年份" prop="year">
+                        <Date-Picker type="year" placeholder="选择你的入学年份" v-model="formValidate.year"></Date-Picker>
+                    </Form-Item>
+                    <Form-Item label="如何称呼" prop="name">
+                        <i-input v-model="formValidate.name" placeholder="你想要我们怎么称呼你"></i-input>
+                    </Form-Item>
+                    <Form-Item label="GitHub" prop="github">
+                        <i-input v-model="formValidate.github" placeholder="GitHub用户名（用户名，不是昵称）">
+                            <span slot="prepend">https://github.com/</span>
+                        </i-input>
+                    </Form-Item>
+                    <Form-Item label="联系方式" prop="contact">
+                        <i-input v-model="formValidate.contact" placeholder="如果你想的话，留下QQ/微信/邮箱，但最多只能留一个"></i-input>
+                    </Form-Item>
+                    <Form-Item label="甩个链接" prop="url">
+                        <i-input v-model="formValidate.url" placeholder="如果你想的话，留下个人主页/知乎/博客等，但最多只能留一个"></i-input>
+                    </Form-Item>
+                    <Form-Item label="想说的话" prop="notes">
+                        <i-input v-model="formValidate.notes" type="textarea" :autosize="{minRows: 2, maxRows: 5}" show-word-limit maxlength=255 placeholder="任何想说的话（自我介绍/内推广告/交友宣言……）"></i-input>
+                    </Form-Item>
+                    <Form-Item>
+                        <i-button type="primary" long @click="handleSubmit('formValidate')">提交</i-button>
+                    </Form-Item>
+                </i-form>
+            </Card>
+        </i-col>
+    <Row>
+</div>
+<script>
+    new Vue({
+        el: '#app',
+        data: {
+            formValidate: {
+                    dept: '',
+                    year: '',
+                    name: '',
+                    github: '',
+                    contact: '',
+                    url: '',
+                    notes: ''
+                },
+                ruleValidate: {
+                    dept: [
+                        { required: true, message: '这是必填项', trigger: 'blur' }
+                    ],
+                    year: [
+                        { required: true, message: '这是必填项', trigger: 'blur', pattern: /.+/},
+                    ],
+                    name: [
+                        { required: true, message: '这是必填项，你可以写任何你喜欢的昵称', trigger: 'change' }
+                    ],
+                    github: [
+                        { required: true, message: '这是必填项（用户名，不是昵称）', trigger: 'change' }
+                    ]
+                }
+        },
+        methods: {
+            handleSubmit (name) {
+                this.$refs[name].validate((valid) => {
+                    if (valid) {
+                        $.ajax({
+                            type: 'GET',
+                            url: '{{PLACEHOLDER}}',
+                            contentType: 'application/json',
+                          })
+                        .then((res) => {
+                            console.log(res);
+                        })
+                    } else {
+                        this.$Message.error('数据校验未通过');
+                    }
+                })
+            },
+        }
+    });
+  </script>
+</body>
+</html>
