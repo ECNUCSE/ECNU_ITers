@@ -23,7 +23,7 @@
                         </Radio-Group>
                     </Form-Item>
                     <Form-Item label="入学年份" prop="year">
-                        <Date-Picker type="year" placeholder="选择你的入学年份" v-model="formValidate.year"></Date-Picker>
+                        <Date-Picker type="date" placeholder="选择你的入学年份" v-model="formValidate.year"></Date-Picker>
                     </Form-Item>
                     <Form-Item label="如何称呼" prop="name">
                         <i-input v-model="formValidate.name" placeholder="你想要我们怎么称呼你"></i-input>
@@ -96,6 +96,7 @@
                 this.$refs[name].validate((valid) => {
                 	const yearPossible = (new Date(this.formValidate.year).getFullYear()) <= (new Date().getFullYear())
                     if (valid && yearPossible) {
+			this.$Spin.show();
                         $.ajax({
                             type: 'POST',
                             url: 'https://ecnu-iters-automation.herokuapp.com/join',
@@ -105,6 +106,7 @@
                         .then((res) => {
                             if (res === 'OK') {
                             	this.$Message.success('提交成功')
+				this.$Spin.hide();
                             	window.location = 'https://ecnucse.github.io/ECNU_ITers/'
                             } else {
                             	this.$Message.error('提交失败')
