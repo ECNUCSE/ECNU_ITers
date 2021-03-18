@@ -38,6 +38,7 @@ ECNU 计软院合合拆拆，各种群层出不穷，但时间一长便可能失
 | [Jonsonlee](https://github.com/johnsonlee-debug)           |          | 19级老混子，FP,PL,Racket学习中                               | 0xjohnsonlee@gmail.com            |                                                 |
 | [Bill Chen](https://github.com/BillChen2k)                 |          | iOS Dev @ByteDance / Music Production / Design               | [me@billc.io](https://billc.io)   |                                                 |
 | [凝神长老](https://github.com/jxtxzzw) | 2016 CS | 用志不分，乃凝于神。 | jxtxzzw@126.com | https://www.jxtxzzw.com |
+| [cubercsl](https://github.com/2014CAIS01) | 2020 CS |  | [5E44F076C0042771](https://github.com/2014CAIS01.gpg) |  |
 | [虚位以待](https://ecnucse.github.io/ECNU_ITers/join.html) |  |  |  |  |
 
 ## 提交、说明与其他
