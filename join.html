@@ -55,43 +55,63 @@
         el: '#app',
         data: {
             formValidate: {
-                    dept: '',
-                    year: '',
-                    name: '',
-                    github: '',
-                    contact: '',
-                    url: '',
-                    notes: ''
-                },
-                ruleValidate: {
-                    dept: [
-                        { required: true, message: '这是必填项', trigger: 'blur' }
-                    ],
-                    year: [
-                        { required: true, message: '这是必填项', trigger: 'blur', pattern: /.+/},
-                    ],
-                    name: [
-                        { required: true, message: '这是必填项，你可以写任何你喜欢的昵称', trigger: 'change' }
-                    ],
-                    github: [
-                        { required: true, message: '这是必填项（用户名，不是昵称）', trigger: 'change' }
-                    ]
-                }
+                dept: '',
+                year: '',
+                name: '',
+                github: '',
+                contact: '',
+                url: '',
+                notes: ''
+            },
+            ruleValidate: {
+                dept: [
+                    { required: true, message: '这是必填项', trigger: 'blur' }
+                ],
+                year: [
+                    { required: true, message: '这是必填项', trigger: 'blur', pattern: /.+/},
+                ],
+                name: [
+                    { required: true, message: '这是必填项，你可以写任何你喜欢的昵称', trigger: 'change' }
+                ],
+                github: [
+                    { required: true, message: '这是必填项（用户名，不是昵称）', trigger: 'change' }
+                ]
+            }
         },
         methods: {
+
+        	clear() {
+        		this.formValidate = {
+	                dept: '',
+	                year: '',
+	                name: '',
+	                github: '',
+	                contact: '',
+	                url: '',
+	                notes: ''
+	            }
+        	},
+
             handleSubmit (name) {
                 this.$refs[name].validate((valid) => {
-                    if (valid) {
+                	const yearPossible = (new Date(this.formValidate.year).getFullYear()) <= (new Date().getFullYear())
+                    if (valid && yearPossible) {
                         $.ajax({
-                            type: 'GET',
-                            url: '{{PLACEHOLDER}}',
+                            type: 'POST',
+                            url: 'https://ecnu-iters-automation.herokuapp.com/join',
                             contentType: 'application/json',
+                            data: JSON.stringify(this.formValidate),
                           })
                         .then((res) => {
-                            console.log(res);
+                            if (res === 'OK') {
+                            	this.$Message.success('提交成功')
+                            	window.location = 'https://ecnucse.github.io/ECNU_ITers/'
+                            } else {
+                            	this.$Message.error('提交失败')
+                            }
                         })
                     } else {
-                        this.$Message.error('数据校验未通过');
+                        this.$Message.error('数据校验未通过')
                     }
                 })
             },
