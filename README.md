@@ -21,7 +21,7 @@ ECNU 计软院合合拆拆，各种群层出不穷，但时间一长便可能失
 | [0yuyuko0](https://github.com/0yuyuko0)                    |          | Java技术爱好者                                               | 346847538@qq.com                  |                                                 |
 | [An Yi](https://github.com/jyannis)                        |          | 蚂蚁金服Java研发                                             |                                   |                                                 |
 | [番茄瓜皮](https://github.com/fun4wut)                     |          | 抖音电商前端，招人！                                         |                                   | https://www.gofun4.top                          |
-| [jxtxzzw](https://github.com/jxtxzzw)                      |          | 用志不分，乃凝于神。                                         |                                   | [凝神长老和他的朋友们](https://www.jxtxzzw.com) |
+| [凝神长老](https://github.com/jxtxzzw) | 2016 CS | 用志不分，乃凝于神。 | jxtxzzw@126.com | https://www.jxtxzzw.com |
 | [Kuroko](https://github.com/SuperKuroko)                   |          | 电一第一吸血鬼,ID:爱追IU的派大星                             |                                   | http://kuroko.info/                             |
 | [小B仔](https://github.com/luxuantao)                      |          | Fdu弟中弟                                                    |                                   | https://luxuantao.github.io/web/index.html      |
 | [ballballtang](https://github.com/ballballtang)            |          | 微软咸鱼，可当内推工具人                                     | ttangwei331998@163.com            |                                                 |
@@ -37,7 +37,6 @@ ECNU 计软院合合拆拆，各种群层出不穷，但时间一长便可能失
 | [wjp666666](https://github.com/wjp666666)                  |          | 华东师范大学软件工程2019级本科/混子精通                      | 1969554248@qq.com                 |                                                 |
 | [Jonsonlee](https://github.com/johnsonlee-debug)           |          | 19级老混子，FP,PL,Racket学习中                               | 0xjohnsonlee@gmail.com            |                                                 |
 | [Bill Chen](https://github.com/BillChen2k)                 |          | iOS Dev @ByteDance / Music Production / Design               | [me@billc.io](https://billc.io)   |                                                 |
-| [凝神长老](https://github.com/jxtxzzw) | 2016 CS | 用志不分，乃凝于神。 | jxtxzzw@126.com | https://www.jxtxzzw.com |
 | [虚位以待](https://ecnucse.github.io/ECNU_ITers/join.html) |  |  |  |  |
 
 ## 提交、说明与其他
