@@ -38,6 +38,7 @@ ECNU 计软院合合拆拆，各种群层出不穷，但时间一长便可能失
 | [Jonsonlee](https://github.com/johnsonlee-debug)           |          | 19级老混子，FP,PL,Racket学习中                               | 0xjohnsonlee@gmail.com            |                                                 |
 | [Bill Chen](https://github.com/BillChen2k)                 |          | iOS Dev @ByteDance / Music Production / Design               | [me@billc.io](https://billc.io)   |                                                 |
 | [jxtxzzw](https://github.com/jxtxzzw) | 2020 SEI | Automation Test |  |  |
+| [zzw](https://github.com/jxtxzzw) | 2015 SEI | Automation Test 2 | 593643474 |  |
 | [虚位以待](https://ecnucse.github.io/ECNU_ITers/join.html) |  |  |  |  |
 
 ## 提交、说明与其他
