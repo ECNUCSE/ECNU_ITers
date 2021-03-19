@@ -37,7 +37,7 @@ ECNU 计软院合合拆拆，各种群层出不穷，但时间一长便可能失
 | [wjp666666](https://github.com/wjp666666)                  |          | 华东师范大学软件工程2019级本科/混子精通                      | 1969554248@qq.com                 |                                                 |
 | [Jonsonlee](https://github.com/johnsonlee-debug)           |          | 19级老混子，FP,PL,Racket学习中                               | 0xjohnsonlee@gmail.com            |                                                 |
 | [Bill Chen](https://github.com/BillChen2k)                 |          | iOS Dev @ByteDance / Music Production / Design               | [me@billc.io](https://billc.io)   |                                                 |
-| [cubercsl](https://github.com/2014CAIS01) | 2020 CS |  | [5E44F076C0042771](https://github.com/2014CAIS01.gpg) |  |
+| [cubercsl](https://github.com/cubercsl) | 2020 CS | 摸鱼中... | [5E44F076C0042771](https://github.com/cubercsl.gpg) |  |
 | [Low Coder](https://github.com/cqj8660) | 2016 CS | 大佬们带带我 |  | https://qjchen.cn/ |
 | [虚位以待](https://ecnucse.github.io/ECNU_ITers/join.html) |  |  |  |  |
 
