@@ -39,6 +39,7 @@ ECNU 计软院合合拆拆，各种群层出不穷，但时间一长便可能失
 | [Bill Chen](https://github.com/BillChen2k)                 |          | iOS Dev @ByteDance / Music Production / Design               | [me@billc.io](https://billc.io)   |                                                 |
 | [cubercsl](https://github.com/cubercsl) | 2020 CS | 摸鱼中... | [5E44F076C0042771](https://github.com/cubercsl.gpg) |  |
 | [Low Coder](https://github.com/cqj8660) | 2016 CS | 大佬们带带我 |  | https://qjchen.cn/ |
+| [Revector](https://github.com/revectores) | 2018 CS |  | cmV2ZWN0b3Jlc0BnbWFpbC5jb20= | http://revectores.com |
 | [虚位以待](https://ecnucse.github.io/ECNU_ITers/join.html) |  |  |  |  |
 
 ## 提交、说明与其他
