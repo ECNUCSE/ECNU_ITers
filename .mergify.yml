@@ -9,4 +9,4 @@ pull_request_rules:
       request_reviews:
         teams: ['admin']
       merge:
-        method: merge
+        method: squash
