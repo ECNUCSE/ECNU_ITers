@@ -42,6 +42,7 @@ ECNU 计软院合合拆拆，各种群层出不穷，但时间一长便可能失
 | [Revector](https://github.com/revectores) | 2018 CS |  | cmV2ZWN0b3Jlc0BnbWFpbC5jb20= | http://revectores.com |
 | [oceanlvr](https://github.com/oceanlvr) | 2021 CS | 比较喜欢前端开发/很菜 | oceanlvr@foxmail.com | https://www.zhihu.com/people/ocean-an-21 |
 | [momo](https://github.com/momo7773) | 2016 SEI | Incoming MS Student in CMU/UCB. 字节内推请戳我~ | yiqingt7773@gmail.com |  |
+| [张赛阳](https://github.com/ZSYblah) | 2018 CS | steam ID ZSYblah求好友 | 1303681568@qq.com |  |
 | [虚位以待](https://ecnucse.github.io/ECNU_ITers/join.html) |  |  |  |  |
 
 ## 提交、说明与其他
