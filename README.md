@@ -43,7 +43,9 @@ ECNU 计软院合合拆拆，各种群层出不穷，但时间一长便可能失
 | [oceanlvr](https://github.com/oceanlvr) | 2021 CS | 比较喜欢前端开发/很菜 | oceanlvr@foxmail.com | https://www.zhihu.com/people/ocean-an-21 |
 | [momo](https://github.com/momo7773) | 2016 SEI | Incoming MS Student in CMU/UCB. 字节内推请戳我~ | yiqingt7773@gmail.com |  |
 | [张赛阳](https://github.com/ZSYblah) | 2018 CS | steam ID ZSYblah求好友 | 1303681568@qq.com |  |
+| [int](https://github.com/samaritanhu) | 2016 Math | 华东师范大学数学科学学院2016级本科 / Incoming MS Student in CMU INI / Alibaba NLP混子 |  | https://www.zhihu.com/people/cindy-hu-38 |
 | [虚位以待](https://ecnucse.github.io/ECNU_ITers/join.html) |  |  |  |  |
+
 
 ## 提交、说明与其他
 
