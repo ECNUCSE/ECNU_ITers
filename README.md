@@ -45,6 +45,7 @@ ECNU 计软院合合拆拆，各种群层出不穷，但时间一长便可能失
 | [张赛阳](https://github.com/ZSYblah) | 2018 CS | steam ID ZSYblah求好友 | 1303681568@qq.com |  |
 | [int](https://github.com/samaritanhu) | 2016 Math | 华东师范大学数学科学学院2016级本科 / Incoming MS Student in CMU INI / Alibaba NLP混子 |  | https://www.zhihu.com/people/cindy-hu-38 |
 | [Will](https://github.com/Willendless) | 2017 SEI | 17级软工嵌入式方向/Incoming MS Student in CMU/热衷造轮子和写底层系统代码 | 317500141@qq.com | [willendless.github.io](https://willendless.github.io/) |
+| [张赛阳](https://github.com/ZSYblah) | 2018 CS | Steam求好友ID：ZSYblah | 1303681568@qq.com |  |
 | [虚位以待](https://ecnucse.github.io/ECNU_ITers/join.html) |  |  |  |  |
 
 
