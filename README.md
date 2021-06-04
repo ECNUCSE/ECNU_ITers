@@ -47,6 +47,7 @@ ECNU 计软院合合拆拆，各种群层出不穷，但时间一长便可能失
 | [Will](https://github.com/Willendless) | 2017 SEI | 17级软工嵌入式方向/Incoming MS Student in CMU/热衷造轮子和写底层系统代码 | 317500141@qq.com | [willendless.github.io](https://willendless.github.io/) |
 | [张赛阳](https://github.com/ZSYblah) | 2018 CS | Steam求好友ID：ZSYblah | 1303681568@qq.com |  |
 | [DeerBean](https://github.com/Mosley-Z) | 2017 CS | 欢迎入住965养老院，坐标东京 | 916918668@qq.com |  |
+| [Shen](https://github.com/tresaresa) | 2017 SEI | 大摩摸鱼选手，一起来摸鱼吧 | lstresa（gmail） |  |
 | [虚位以待](https://ecnucse.github.io/ECNU_ITers/join.html) |  |  |  |  |
 
 
