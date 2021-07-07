@@ -48,6 +48,7 @@ ECNU 计软院合合拆拆，各种群层出不穷，但时间一长便可能失
 | [张赛阳](https://github.com/ZSYblah) | 2018 CS | Steam求好友ID：ZSYblah | 1303681568@qq.com |  |
 | [DeerBean](https://github.com/Mosley-Z) | 2017 CS | 欢迎入住965养老院，坐标东京 | 916918668@qq.com |  |
 | [Shen](https://github.com/tresaresa) | 2017 SEI | 大摩摸鱼选手，一起来摸鱼吧 | lstresa（gmail） |  |
+| [Hairaa](https://github.com/Hairaa-1026) | 2018 CS |  | QQ：1020071381 | http://www.hairaaa.com |
 | [虚位以待](https://ecnucse.github.io/ECNU_ITers/join.html) |  |  |  |  |
 
 
