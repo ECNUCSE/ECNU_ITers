@@ -46,6 +46,7 @@ ECNU 计软院合合拆拆，各种群层出不穷，但时间一长便可能失
 | [int](https://github.com/samaritanhu) | 2016 Math | 华东师范大学数学科学学院2016级本科 / MS Student in CMU INI / Meta (原Facebook) 员工 |  | https://www.zhihu.com/people/cindy-hu-38 |
 | [Will](https://github.com/Willendless) | 2017 SEI | 17级软工嵌入式方向/Incoming MS Student in CMU/热衷造轮子和写底层系统代码 | 317500141@qq.com | [willendless.github.io](https://willendless.github.io/) |
 | [张赛阳](https://github.com/ZSYblah) | 2018 CS | Steam求好友ID：ZSYblah | 1303681568@qq.com |  |
+| [Ryan Xu](https://github.com/ryanwentaoxu) | 2016 SEI | Cornell Tech CS MEng / Coinbase SDE/ TuSimple SDE | ryanwentaoxu@gmail.com |  |
 | [DeerBean](https://github.com/Mosley-Z) | 2017 CS | 欢迎入住965养老院，坐标东京 | 916918668@qq.com |  |
 | [Shen](https://github.com/tresaresa) | 2017 SEI | 大摩摸鱼选手，一起来摸鱼吧 | lstresa（gmail） |  |
 | [Hairaa](https://github.com/Hairaa-1026) | 2018 CS |  | QQ：1020071381 | http://www.hairaaa.com |
