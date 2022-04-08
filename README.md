@@ -51,6 +51,7 @@ ECNU 计软院合合拆拆，各种群层出不穷，但时间一长便可能失
 | [Hairaa](https://github.com/Hairaa-1026) | 2018 CS |  | QQ：1020071381 | http://www.hairaaa.com |
 | [senwu](https://github.com/WMDantibirth) | 2018 CS |  |  | https://www.txtk.tk |
 | [Jeff Xie](https://github.com/jeffmeoi) | 2018 SEI | 微信支付后端研发 | QQ：2739967118 |  |
+| [zny](https://github.com/vexilligera) | 2016 DaSE | VP, Global Hiring Manager @ Xuwentao River Trading. We are hiring! | | |
 | [虚位以待](https://ecnucse.github.io/ECNU_ITers/join.html) |  |  |  |  |
 
 
