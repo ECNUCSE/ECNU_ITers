@@ -26,7 +26,7 @@ ECNU 计软院合合拆拆，各种群层出不穷，但时间一长便可能失
 | [小B仔](https://github.com/luxuantao)                      |          | Fdu弟中弟                                                    |                                   | https://luxuantao.github.io/web/index.html      |
 | [ballballtang](https://github.com/ballballtang)            |          | 微软咸鱼，可当内推工具人                                     | ttangwei331998@163.com            |                                                 |
 | [刘冬煜](https://github.com/Viola-Siemens)                 |          | 算法岗、开发岗、游戏岗即插即用，没能耐但学得快               |                                   | https://www.zhihu.com/people/bei-ji-e-13        |
-| [kblack](https://github.com/kblackcn)                      |          | 图森未来内推                                                 |                                   | https://blog.i64d.com/                          |
+| [kblack](https://github.com/kblackcn)                      | 2017 CS | 图森未来内推                                                 |                                   | https://blog.i64d.com/                          |
 | [hcy226](https://github.com/hcy226)                        |          | ecnu软件数据方向本+pku叉院数据科学硕+前acmer现cv/mler+欢迎hr小哥哥小姐姐来撩 |                                   | https://www.zhihu.com/people/hcy-20-34          |
 | [haven](https://github.com/HavenTong)                      |          | 准Fdu摸鱼选手                                                |                                   | https://haventong.github.io/                    |
 | [yoshino-s](https://github.com/yoshino-s/)                 |          | CTFer 专职NodeJS                                             |                                   |                                                 |
@@ -54,6 +54,7 @@ ECNU 计软院合合拆拆，各种群层出不穷，但时间一长便可能失
 | [Jeff Xie](https://github.com/jeffmeoi) | 2018 SEI | 微信支付后端研发 | QQ：2739967118 |  |
 | [zny](https://github.com/vexilligera) | 2016 DaSE | VP, Global Hiring Manager @ Xuwentao River Trading. We are hiring! | | |
 | [Quentin Lee](https://github.com/otaku-47) | 2016 SEI | JM Student @ THU / Research Intern @ THUNLP | qingquanl97@outlook.com | |
+| [zerol](https://github.com/zerolfx) | 2016 CS | | | https://zerol.me |
 | [虚位以待](https://ecnucse.github.io/ECNU_ITers/join.html) |  |  |  |  |
 
 
@@ -61,7 +62,7 @@ ECNU 计软院合合拆拆，各种群层出不穷，但时间一长便可能失
 
 ### 提交
 
-+ 推荐 `fork`本repo后, 编辑 `README.md` 文件，将个人信息添加后，发起 `Pull Request` 以提交信息;
++ 推荐 `fork` 本repo后, 编辑 `README.md` 文件，将个人信息添加后，发起 `Pull Request` 以提交信息;
 
 + 你可以点击 [虚位以待](https://ecnucse.github.io/ECNU_ITers/join.html) 进行信息提交，提交后由 bot 自动完成校验与合并;
 
@@ -71,16 +72,16 @@ ECNU 计软院合合拆拆，各种群层出不穷，但时间一长便可能失
 
 ### 说明
 
-+ 点击`star`收藏本repo;
++ 点击 `star` 收藏本 repo;
 
-+ 点击`watch`可关注信息更新;
++ 点击 `watch` 可关注信息更新;
 
 + **甩个链接**中 个人网站、知乎、邮箱等等都可，但请只填入一个链接;
 
-+ 一切含有不良信息的`PR`都不会被通过;
++ 一切含有不良信息的 `PR` 都不会被通过;
 
 ### 其他
 
 + 此repo仅作为校友互相联络了解使用，**不允许任何组织或个人将信息用于其他商业用途**；
 
-+ 校友可以在特定时间段通过`Issues`发布一些职位信息或求职信息，但请信息过期后`close`掉;
++ 校友可以在特定时间段通过 `Issues` 发布一些职位信息或求职信息，但请信息过期后 `close` 掉;
