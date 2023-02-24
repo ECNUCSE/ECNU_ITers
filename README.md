@@ -22,7 +22,7 @@ ECNU 计软院合合拆拆，各种群层出不穷，但时间一长便可能失
 | [An Yi](https://github.com/jyannis)                        |          | 蚂蚁金服Java研发                                             |                                   |                                                 |
 | [番茄瓜皮](https://github.com/fun4wut)                     |          | 抖音电商前端，招人！                                         |                                   | https://www.gofun4.top                          |
 | [凝神长老](https://github.com/jxtxzzw) | 2016 CS | 用志不分，乃凝于神。 | jxtxzzw@126.com | https://www.jxtxzzw.com |
-| [Kuroko](https://github.com/SuperKuroko)                   |          | 电一第一吸血鬼,ID:爱追IU的派大星                             |                                   | http://kuroko.info/                             |
+| [Kuroko](https://github.com/SuperKuroko)                   |          | 电一第一吸血鬼,ID:爱追IU的派大星                             |                                   |                              |
 | [小B仔](https://github.com/luxuantao)                      |          | Fdu弟中弟                                                    |                                   | https://luxuantao.github.io/web/index.html      |
 | [ballballtang](https://github.com/ballballtang)            |          | 微软咸鱼，可当内推工具人                                     | ttangwei331998@163.com            |                                                 |
 | [刘冬煜](https://github.com/Viola-Siemens)                 |          | 算法岗、开发岗、游戏岗即插即用，没能耐但学得快               |                                   | https://www.zhihu.com/people/bei-ji-e-13        |
@@ -49,8 +49,8 @@ ECNU 计软院合合拆拆，各种群层出不穷，但时间一长便可能失
 | [Ryan Xu](https://github.com/ryanwentaoxu) | 2016 SEI | Cornell Tech CS MEng / Coinbase SDE/ TuSimple SDE | ryanwentaoxu@gmail.com |  |
 | [DeerBean](https://github.com/Mosley-Z) | 2017 CS | 欢迎入住965养老院，坐标东京 | 916918668@qq.com |  |
 | [Shen](https://github.com/tresaresa) | 2017 SEI | 大摩摸鱼选手，一起来摸鱼吧 | lstresa（gmail） |  |
-| [Hairaa](https://github.com/Hairaa-1026) | 2018 CS |  | QQ：1020071381 | http://www.hairaaa.com |
-| [senwu](https://github.com/WMDantibirth) | 2018 CS |  |  | https://www.txtk.tk |
+| [Hairaa](https://github.com/Hairaa-1026) | 2018 CS |  | QQ：1020071381 |  |
+| [senwu](https://github.com/WMDantibirth) | 2018 CS |  |  |  |
 | [Jeff Xie](https://github.com/jeffmeoi) | 2018 SEI | 微信支付后端研发 | QQ：2739967118 |  |
 | [zny](https://github.com/vexilligera) | 2016 DaSE | VP, Global Hiring Manager @ Xuwentao River Trading. We are hiring! | | |
 | [Quentin Lee](https://github.com/otaku-47) | 2016 SEI | JM Student @ THU / Research Intern @ THUNLP | qingquanl97@outlook.com | https://qingquanl97.gitee.io/ |
