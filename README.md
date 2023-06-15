@@ -6,9 +6,9 @@
 
 ECNU 计软院合合拆拆，各种群层出不穷，但时间一长便可能失去消息;
 
-期望华师大在校生or校友能参加此项目，如果你是IT相关的同学就更好了;
+期望华师大在校生 or 校友能参加此项目，如果你是 IT 相关的同学就更好了;
 
-通过提交`Issue` or `Pull request` 添加你的信息至下方列表(详见[提交与说明](#提交说明与其他));
+通过提交 `Issue` or `Pull request` 添加你的信息至下方列表 (详见[提交与说明](#提交说明与其他));
 
 <!-- 位置留的很宽啊，格式还是整齐一点好嗷 -->
 
@@ -56,18 +56,18 @@ ECNU 计软院合合拆拆，各种群层出不穷，但时间一长便可能失
 | [Quentin Lee](https://github.com/otaku-47) | 2016 SEI | JM Student @ THU / Research Intern @ THUNLP | qingquanl97@outlook.com | https://qingquanl97.gitee.io/ |
 | [zerol](https://github.com/zerolfx) | 2016 CS | | | https://zerol.me |
 | [Jiaming Liu](https://github.com/Jiaaming)             | 2020 SE   |  | jiaming20020607@gmail.com                           | [@jiaaming.cn](https://www.jiaaming.cn/)                |
+| 谢骐 (*shynur*) | 2021 CS | 写 C++ 的, 会用 Emacs. | 见[我的 GitHub 主页](https://github.com/shynur). | http://shynur.fun |
 | [虚位以待](https://ecnucse.github.io/ECNU_ITers/join.html) |  |  |  |  |
-
 
 ## 提交、说明与其他
 
 ### 提交
 
-+ 推荐 `fork` 本repo后, 编辑 `README.md` 文件，将个人信息添加后，发起 `Pull Request` 以提交信息;
++ 推荐 `fork` 本 repo 后, 编辑 `README.md` 文件，将个人信息添加后，发起 `Pull Request` 以提交信息;
 
 + 你可以点击 [虚位以待](https://ecnucse.github.io/ECNU_ITers/join.html) 进行信息提交，提交后由 bot 自动完成校验与合并;
 
-+ 如果不熟悉git相关操作，可于`Issues`处给出个人信息，等待相关同学录入信息;
++ 如果不熟悉 git 相关操作，可于 `Issues` 处给出个人信息，等待相关同学录入信息;
 
 + 你也可以@相关同学以加快处理速度;
 
@@ -83,6 +83,6 @@ ECNU 计软院合合拆拆，各种群层出不穷，但时间一长便可能失
 
 ### 其他
 
-+ 此repo仅作为校友互相联络了解使用，**不允许任何组织或个人将信息用于其他商业用途**；
++ 此 repo 仅作为校友互相联络了解使用，**不允许任何组织或个人将信息用于其他商业用途**；
 
 + 校友可以在特定时间段通过 `Issues` 发布一些职位信息或求职信息，但请信息过期后 `close` 掉;
