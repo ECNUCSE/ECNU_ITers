@@ -4,11 +4,11 @@
 
 ## 写在前面
 
-ECNU 计软院合合拆拆，各种群层出不穷，但时间一长便可能失去消息;
+ECNU 计软院合合拆拆，各种群层出不穷，但时间一长便可能失去消息；
 
-期望华师大在校生 or 校友能参加此项目，如果你是 IT 相关的同学就更好了;
+期望华师大在校生 or 校友能参加此项目，如果你是 IT 相关的同学就更好了；
 
-通过提交 `Issue` or `Pull request` 添加你的信息至下方列表 (详见[提交与说明](#提交说明与其他));
+通过提交 `Issue` or `Pull request` 添加你的信息至下方列表（详见[提交与说明](#提交说明与其他)）。
 
 <!-- 位置留的很宽啊，格式还是整齐一点好嗷 -->
 
@@ -42,7 +42,6 @@ ECNU 计软院合合拆拆，各种群层出不穷，但时间一长便可能失
 | [Revector](https://github.com/revectores) | 2018 CS |  | cmV2ZWN0b3Jlc0BnbWFpbC5jb20= | http://revectores.com |
 | [oceanlvr](https://github.com/oceanlvr) | 2021 CS | 比较喜欢前端开发/很菜 | oceanlvr@foxmail.com | https://www.zhihu.com/people/ocean-an-21 |
 | [momo](https://github.com/momo7773) | 2016 SEI | Incoming MS Student in CMU/UCB. 字节内推请戳我~ | yiqingt7773@gmail.com |  |
-| [张赛阳](https://github.com/ZSYblah) | 2018 CS | steam ID ZSYblah求好友 | 1303681568@qq.com |  |
 | [int](https://github.com/samaritanhu) | 2016 Math | 华东师范大学数学科学学院2016级本科 / MS Student in CMU INI / Meta (原Facebook) 员工 |  | https://www.zhihu.com/people/cindy-hu-38 |
 | [Will](https://github.com/Willendless) | 2017 SEI | 17级软工嵌入式方向/Incoming MS Student in CMU/热衷造轮子和写底层系统代码 | 317500141@qq.com | [willendless.github.io](https://willendless.github.io/) |
 | [张赛阳](https://github.com/ZSYblah) | 2018 CS | Steam求好友ID：ZSYblah | 1303681568@qq.com |  |
@@ -63,26 +62,26 @@ ECNU 计软院合合拆拆，各种群层出不穷，但时间一长便可能失
 
 ### 提交
 
-+ 推荐 `fork` 本 repo 后, 编辑 `README.md` 文件，将个人信息添加后，发起 `Pull Request` 以提交信息;
++ 推荐 `fork` 本 repo 后，编辑 `README.md` 文件，将个人信息添加后，发起 `Pull Request` 以提交信息；
 
-+ 你可以点击 [虚位以待](https://ecnucse.github.io/ECNU_ITers/join.html) 进行信息提交，提交后由 bot 自动完成校验与合并;
++ 你可以点击 [虚位以待](https://ecnucse.github.io/ECNU_ITers/join.html) 进行信息提交，提交后由 bot 自动完成校验与合并；
 
-+ 如果不熟悉 git 相关操作，可于 `Issues` 处给出个人信息，等待相关同学录入信息;
++ 如果不熟悉 git 相关操作，可于 `Issues` 处给出个人信息，等待相关同学录入信息；
 
-+ 你也可以@相关同学以加快处理速度;
++ 你也可以@相关同学以加快处理速度。
 
 ### 说明
 
-+ 点击 `star` 收藏本 repo;
++ 点击 `star` 收藏本 repo；
 
-+ 点击 `watch` 可关注信息更新;
++ 点击 `watch` 可关注信息更新；
 
-+ **甩个链接**中 个人网站、知乎、邮箱等等都可，但请只填入一个链接;
++ **甩个链接**中 个人网站、知乎、邮箱等等都可，但请只填入一个链接；
 
-+ 一切含有不良信息的 `PR` 都不会被通过;
++ 一切含有不良信息的 `PR` 都不会被通过。
 
 ### 其他
 
 + 此 repo 仅作为校友互相联络了解使用，**不允许任何组织或个人将信息用于其他商业用途**；
 
-+ 校友可以在特定时间段通过 `Issues` 发布一些职位信息或求职信息，但请信息过期后 `close` 掉;
++ 校友可以在特定时间段通过 `Issues` 发布一些职位信息或求职信息，但请信息过期后 `close` 掉。
