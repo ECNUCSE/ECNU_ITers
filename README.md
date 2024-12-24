@@ -56,6 +56,7 @@ ECNU 计软院合合拆拆，各种群层出不穷，但时间一长便可能失
 | [zerol](https://github.com/zerolfx) | 2016 CS | | | https://zerol.me |
 | [Jiaming Liu](https://github.com/Jiaaming)             | 2020 SE   |  | jiaming20020607@gmail.com                           | [@jiaaming.cn](https://www.jiaaming.cn/)                |
 | 谢骐 (*shynur*) | 2021 CS | 写 C++ 的, 会用 Emacs. | 见[我的 GitHub 主页](https://github.com/shynur). | http://shynur.fun |
+| [谢苹果](https://github.com/08183080)             | 2022 SE   |  | pxxhl@qq.com                   | 致力于AI+X 微信公众号【与龙邂逅】              |
 | [虚位以待](https://ecnucse.github.io/ECNU_ITers/join.html) |  |  |  |  |
 
 ## 提交、说明与其他
